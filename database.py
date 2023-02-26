@@ -52,3 +52,4 @@ class database:
             mydb.commit()
         except Exception as e:
             logging.info(e)
+            logging.ERROR(query)

@@ -3,87 +3,34 @@ INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a
  * Running on http://127.0.0.1:5001
  * Running on http://192.168.225.237:5001
 INFO:werkzeug:[33mPress CTRL+C to quit[0m
-INFO:werkzeug:192.168.225.237 - - [16/Feb/2023 22:39:29] "GET / HTTP/1.1" 200 -
-INFO:werkzeug:192.168.225.237 - - [16/Feb/2023 22:39:30] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:192.168.225.237 - - [25/Feb/2023 11:26:50] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.225.237 - - [25/Feb/2023 11:26:51] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
 INFO:root:driver initiated
 INFO:root:requestd https://www.youtube.com/@krishnaik06/videos
 INFO:root:successfully scrolled the page
 INFO:root:Table created in database
 INFO:root:Message: invalid type: null, expected a string at line 1 column 12
 
-INFO:root:1054 (42S22): Unknown column '1K' in 'field list'
 INFO:root:1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's a method that uses neural networks to model word-to-word relationships. Basica' at line 1
-INFO:root:1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'K,'https://www.youtube.com/watch?v=I5UFW1ob_U4')' at line 1
-INFO:root:1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's- RapidAPI','Millions of developers use the RapidAPI platform to build, use, an' at line 1
-INFO:root:1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'K,'https://www.youtube.com/watch?v=xSCeY4dg17Y')' at line 1
-INFO:root:1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'K,'https://www.youtube.com/watch?v=NWzbdWf7Yts')' at line 1
-INFO:root:1054 (42S22): Unknown column '1K' in 'field list'
-INFO:root:1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'K,'https://www.youtube.com/watch?v=VpkM6IiaJVU')' at line 1
-INFO:root:1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'K,'https://www.youtube.com/watch?v=X9i8TtfaI8A')' at line 1
-INFO:root:'charmap' codec can't encode characters in position 42-45: character maps to <undefined>
-INFO:root:1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 't Panic While Learning Data Science????','',1.6K,'https://www.youtube.com/watch?' at line 1
-INFO:root:'charmap' codec can't encode characters in position 54-57: character maps to <undefined>
-INFO:root:'charmap' codec can't encode characters in position 38-39: character maps to <undefined>
-INFO:root:'charmap' codec can't encode characters in position 42-43: character maps to <undefined>
-INFO:root:1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'K,'https://www.youtube.com/watch?v=McBWLEoY9fk')' at line 1
-INFO:root:1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'K,'https://www.youtube.com/watch?v=QnDIY-nRHPw')' at line 1
-INFO:root:'charmap' codec can't encode character '\U0001f31f' in position 56: character maps to <undefined>
-INFO:root:1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'K,'https://www.youtube.com/watch?v=wr6Abu-aDsA')' at line 1
-INFO:root:'charmap' codec can't encode characters in position 89-92: character maps to <undefined>
+INFO:root:1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's- RapidAPI','Millions of developers use the RapidAPI platform to build use and ' at line 1
+INFO:root:1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 't Panic While Learning Data Science????','','1.6K','https://www.youtube.com/watc' at line 1
 INFO:root:1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's Day. On the occasion of this auspicious day we at @iNeuron Intelligence are of' at line 1
 INFO:root:1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's Day. On the occasion of this auspicious day we at @iNeuron Intelligence are of' at line 1
 INFO:root:1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's Day. On the occasion of this auspicious day we at @iNeuron Intelligence are of' at line 1
 INFO:root:1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's Day. On the occasion of this auspicious day we at @iNeuron Intelligence are of' at line 1
 INFO:root:1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's First Free Community Coding Platform Ft: @iNeuroniNtelligence','In the Neurola' at line 1
-INFO:root:1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'K,'https://www.youtube.com/watch?v=MJ1vWb1rGwM')' at line 1
-INFO:root:1054 (42S22): Unknown column '1K' in 'field list'
-INFO:root:1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'K,'https://www.youtube.com/watch?v=JneXvhlJW_k')' at line 1
-INFO:root:1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'K,'https://www.youtube.com/watch?v=ITyGQpyMV_w')' at line 1
-INFO:root:1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'K,'https://www.youtube.com/watch?v=8-tyWaOFBPU')' at line 1
-INFO:root:1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'K,'https://www.youtube.com/watch?v=7uLzGRlXXDw')' at line 1
-INFO:root:'charmap' codec can't encode characters in position 334-335: character maps to <undefined>
 INFO:root:1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 've shown you how a SIMPLE WordPress Plugin will do for your website! With this e' at line 1
 INFO:root:1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's Crack Any Data Structures And Algorithms Interviews- Amazing Announcement','',' at line 1
 INFO:root:1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's responsible for everything GitHub related that happens locally on your compute' at line 1
 INFO:root:1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's responsible for everything GitHub related that happens locally on your compute' at line 1
 INFO:root:1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's responsible for everything GitHub related that happens locally on your compute' at line 1
-INFO:root:1054 (42S22): Unknown column '4K' in 'field list'
-INFO:root:1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'K,'https://www.youtube.com/watch?v=fHFOANOHwh8')' at line 1
 INFO:root:1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's| AI @ IIT Hyderabad| Podcast With Priya Bhatia','Artificial intelligence (AI) ' at line 1
-INFO:root:1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'K,'https://www.youtube.com/watch?v=JxgmHe2NyeY')' at line 1
-INFO:root:1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'K,'https://www.youtube.com/watch?v=d2kxUVwWWwU')' at line 1
-INFO:root:1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'K,'https://www.youtube.com/watch?v=OdT7wEchiL4')' at line 1
 INFO:root:1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's) for Data Analyst','Our Popular courses:- Fullstack data science job guarantee' at line 1
-INFO:root:'charmap' codec can't encode characters in position 47-51: character maps to <undefined>
 INFO:root:1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's With PowerBI','Our Popular courses:- Fullstack data science job guaranteed pro' at line 1
-INFO:root:1054 (42S22): Unknown column '1K' in 'field list'
-INFO:root:1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's','',873,'https://www.youtube.com/watch?v=Suq74qfwmaA')' at line 1
-INFO:root:1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'K,'https://www.youtube.com/watch?v=z8sxaUw_f-M')' at line 1
-INFO:root:1054 (42S22): Unknown column '1K' in 'field list'
-INFO:root:'charmap' codec can't encode characters in position 67-70: character maps to <undefined>
-INFO:root:1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'K,'https://www.youtube.com/watch?v=O74DzHj_-FI')' at line 1
-INFO:root:1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'K,'https://www.youtube.com/watch?v=1DL6w0EUQNs')' at line 1
-INFO:root:1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'K,'https://www.youtube.com/watch?v=djgtWqkZE84')' at line 1
-INFO:root:1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'K,'https://www.youtube.com/watch?v=9DwlJSlwvqY')' at line 1
-INFO:root:1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'K,'https://www.youtube.com/watch?v=Akl7ndShTbo')' at line 1
-INFO:root:1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'K,'https://www.youtube.com/watch?v=lzP14izI4lQ')' at line 1
-INFO:root:'charmap' codec can't encode characters in position 49-52: character maps to <undefined>
-INFO:root:1054 (42S22): Unknown column '7K' in 'field list'
-INFO:root:1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'K,'https://www.youtube.com/watch?v=9dbB_wqjbUY')' at line 1
-INFO:root:1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'K,'https://www.youtube.com/watch?v=-VwvfiuGPow')' at line 1
+INFO:root:1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's','','877','https://www.youtube.com/watch?v=Suq74qfwmaA')' at line 1
 INFO:root:1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's a collection of code (its functions) and data (its state) that resides at a sp' at line 1
-INFO:root:1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'K,'https://www.youtube.com/watch?v=W-tE_ZP1zv4')' at line 1
-INFO:root:1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'K,'https://www.youtube.com/watch?v=PUMFSfUQ6FI')' at line 1
-INFO:root:1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'K,'https://www.youtube.com/watch?v=DqxG2rme_jI')' at line 1
-INFO:root:1054 (42S22): Unknown column '2K' in 'field list'
-INFO:root:'charmap' codec can't encode characters in position 55-58: character maps to <undefined>
-INFO:root:'charmap' codec can't encode characters in position 40-43: character maps to <undefined>
-INFO:root:1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'K,'https://www.youtube.com/watch?v=9X0ScbtpiGU')' at line 1
-INFO:root:1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'K,'https://www.youtube.com/watch?v=hV-YDJbAlLs')' at line 1
-INFO:root:1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'K,'https://www.youtube.com/watch?v=sXNXI2mE8DU')' at line 1
-INFO:root:1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's ML Kit and integrate it with our Image Helper activity.',137,'https://www.yout' at line 1
-INFO:root:1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's phone Gallery and then display it in the App.',53,'https://www.youtube.com/wat' at line 1
-INFO:root:1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's photo and files.',59,'https://www.youtube.com/watch?v=DiOfrCFqs0k')' at line 1
-INFO:root:1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's Day Everyone','',198,'https://www.youtube.com/watch?v=Ns7ed4xbChs')' at line 1
-INFO:werkzeug:192.168.225.237 - - [16/Feb/2023 23:17:34] "POST /scrape HTTP/1.1" 200 -
-INFO:werkzeug:192.168.225.237 - - [16/Feb/2023 23:17:34] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's ML Kit and integrate it with our Image Helper activity.','137','https://www.yo' at line 1
+INFO:root:1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's phone Gallery and then display it in the App.','53','https://www.youtube.com/w' at line 1
+INFO:root:1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's photo and files.','59','https://www.youtube.com/watch?v=DiOfrCFqs0k')' at line 1
+INFO:werkzeug:192.168.225.237 - - [25/Feb/2023 11:56:06] "POST /scrape HTTP/1.1" 200 -
+INFO:werkzeug:192.168.225.237 - - [25/Feb/2023 11:56:07] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -

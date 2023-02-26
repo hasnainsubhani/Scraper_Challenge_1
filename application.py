@@ -35,6 +35,8 @@ class Video_Scraper:
 
         logging.info(f'requestd {url}')
 
+        chennel_name = self.channel.replace("@","") + '_videos.csv'
+
         x = 0
         y = 1000
         for i in range(0,30):
@@ -51,7 +53,7 @@ class Video_Scraper:
         links = list(dict.fromkeys(map(lambda a: a.get_attribute('href'),allvideo_list)))
 
         print(len(links))
-        self.obj_csv.add_header_tofile('video_details.csv','Sr_No,video_Title,video_description,likes,video_url')
+        self.obj_csv.add_header_tofile(f'{chennel_name}','Sr_No,video_Title,video_description,likes,video_url')
         self.dbObj.create_table()
 
         logging.info('Table created in database')
@@ -81,9 +83,9 @@ class Video_Scraper:
                     logging.info(e)
                     likes = 0
 
-                val = f"{count},'{title}','{desc}','{likes}','{video_url}'"
+                val = f"{count},'{title.replace(',','')}','{desc.replace(',','')}','{likes}','{video_url}'"
                 #print(val)
-                self.obj_csv.write_data_to_CSV_file("video_details.csv",count,title,desc,likes,video_url)
+                self.obj_csv.write_data_to_CSV_file(f"{chennel_name}",count,title.replace(',',''),desc.replace(',',''),likes,video_url)
                 self.dbObj.insert_data(val)
 
                 count = count + 1
